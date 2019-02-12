@@ -7,5 +7,4 @@ Dojo Rules
 * Respect your opponents
 * Most Sensei's should be respected
 * This line is added by Krishna
-* This line is added by Krishna i
 
